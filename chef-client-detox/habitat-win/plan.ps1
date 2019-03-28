@@ -1,6 +1,6 @@
 $pkg_name="chef-client-detox"
 $pkg_origin="stuartpreston"
-$pkg_version="15.0.171"
+$pkg_version="14.11.21"
 $pkg_upstream_url="https://github.com/chef/chef"
 $pkg_revision="1"
 $pkg_maintainer="Stuart Preston <stuart@chef.io>"

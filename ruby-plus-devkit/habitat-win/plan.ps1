@@ -1,6 +1,6 @@
 $pkg_name="ruby-plus-devkit"
 $pkg_origin="stuartpreston"
-$pkg_version="2.6.1"
+$pkg_version="2.6.2"
 $pkg_revision="1"
 $pkg_maintainer="Stuart Preston <stuart@chef.io>"
 $pkg_license=@("Apache-2.0")
